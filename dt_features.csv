@@ -1,0 +1,53 @@
+Features,dt_weights
+num_bids_per_country,0.5555704960843425
+num_bids_per_ip,0.06628058766039395
+time_to_bid,0.048772057636265576
+time,0.03973050327729169
+url_entropy,0.03394480830400472
+mean_url_per_auction,0.03047530681971285
+mean_devices_per_auction,0.028039347318684276
+mean_ip_per_auction,0.026809961821786462
+max_url_per_auction,0.022444590092245753
+perc_inst_resp,0.022071379602791177
+mobile,0.02082409736613384
+ip,0.017185699927899332
+max_country_per_auction,0.012854153490001768
+country,0.012588898100280441
+ip_entropy,0.008891570537102975
+std_devices_per_auction,0.008597376614594145
+max_devices_per_auction,0.008410563456819552
+num_bids_per_auction,0.0070697411495149005
+device,0.00696858830897
+std_ip_per_auction,0.0061153013500177935
+on_url_that_has_a_bot_mean,0.005985259233669483
+num_last_bids,0.0052063625941853615
+url,0.005163349253291413
+total_no_of_bidded_category,0.0
+max_ip_per_auction,0.0
+percentage_of_merchandise_above_threshold,0.0
+no_of_merchandise_exceeds_threshold,0.0
+min_url_per_auction,0.0
+std_url_per_auction,0.0
+total_no_of_participated_auctions,0.0
+no_of_auction_exceeds_threshold,0.0
+percentage_of_auctions_above_threshold,0.0
+min_devices_per_auction,0.0
+min_ip_per_auction,0.0
+auction,0.0
+std_country_per_auction,0.0
+computers,0.0
+num_bids,0.0
+num_first_bids,0.0
+inst_resp,0.0
+auto parts,0.0
+books and music,0.0
+clothing,0.0
+furniture,0.0
+min_country_per_auction,0.0
+home goods,0.0
+jewelry,0.0
+office equipment,0.0
+sporting goods,0.0
+num_bids_per_device,0.0
+mean_country_per_auction,0.0
+on_ip_that_has_a_bot_mean,0.0

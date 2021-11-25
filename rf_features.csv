@@ -1,0 +1,53 @@
+Features,rf_weights
+num_bids_per_device,0.10134357786214811
+num_bids_per_auction,0.0930649857924872
+inst_resp,0.06857032611856448
+perc_inst_resp,0.0609032545566119
+num_bids,0.057389184813864805
+num_bids_per_country,0.04509875285124315
+time,0.04167793216636906
+num_bids_per_ip,0.036461094601834845
+no_of_auction_exceeds_threshold,0.036044381526610755
+percentage_of_auctions_above_threshold,0.03457540161023615
+time_to_bid,0.027100617704051137
+on_url_that_has_a_bot_mean,0.025197844664655897
+ip_entropy,0.023731583066390064
+mean_url_per_auction,0.020573721403233918
+ip,0.0200865024059843
+url_entropy,0.020053355531277548
+max_ip_per_auction,0.01682214354750908
+num_last_bids,0.015239463646432668
+mean_ip_per_auction,0.015114182521827583
+mean_devices_per_auction,0.014431206206114615
+device,0.014424619786170852
+std_ip_per_auction,0.014344619526132283
+on_ip_that_has_a_bot_mean,0.014274894356107697
+std_country_per_auction,0.012932286852244887
+total_no_of_participated_auctions,0.01291573506770557
+auction,0.012818221278383524
+country,0.012736825581012927
+jewelry,0.012277737625672684
+num_first_bids,0.0121744818373579
+mean_country_per_auction,0.011903795125118135
+max_country_per_auction,0.01113182577387303
+url,0.01082989738620141
+mobile,0.010440679219031718
+max_url_per_auction,0.009343467735447515
+std_url_per_auction,0.009322949205754794
+std_devices_per_auction,0.00919396372943716
+max_devices_per_auction,0.008147322712131373
+no_of_merchandise_exceeds_threshold,0.005726227615234252
+percentage_of_merchandise_above_threshold,0.0056340726434278504
+sporting goods,0.005200698495542961
+home goods,0.00419200686756887
+computers,0.0028189605827434613
+books and music,0.0016796060835937074
+office equipment,0.0013404846602569631
+min_url_per_auction,0.00038286812524411973
+min_ip_per_auction,0.00019107092075480733
+min_country_per_auction,8.533210603334552e-05
+min_devices_per_auction,4.5131699293602935e-05
+total_no_of_bidded_category,1.070480507552154e-05
+auto parts,0.0
+furniture,0.0
+clothing,0.0

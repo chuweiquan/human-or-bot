@@ -1,0 +1,53 @@
+Features,xgb_weights
+num_bids_per_auction,0.21344721
+inst_resp,0.10625813
+num_bids_per_device,0.08963458
+num_bids,0.06453669
+computers,0.031720914
+mean_ip_per_auction,0.029687475
+percentage_of_auctions_above_threshold,0.025204409
+num_last_bids,0.02425729
+device,0.02018674
+num_bids_per_ip,0.020130081
+books and music,0.019949373
+num_first_bids,0.019823696
+std_url_per_auction,0.019629026
+url,0.019136522
+max_country_per_auction,0.016390014
+on_url_that_has_a_bot_mean,0.015770065
+max_ip_per_auction,0.015236832
+max_devices_per_auction,0.014727973
+perc_inst_resp,0.014533042
+percentage_of_merchandise_above_threshold,0.014460049
+mean_url_per_auction,0.01355405
+std_devices_per_auction,0.012561146
+num_bids_per_country,0.012541667
+std_ip_per_auction,0.01245815
+auction,0.011864983
+time,0.0118519375
+ip_entropy,0.011801697
+std_country_per_auction,0.01171041
+sporting goods,0.01165219
+ip,0.011108298
+jewelry,0.010996389
+no_of_auction_exceeds_threshold,0.010235673
+mean_devices_per_auction,0.009916495
+time_to_bid,0.008663857
+on_ip_that_has_a_bot_mean,0.008007911
+country,0.007944966
+mobile,0.0076879454
+home goods,0.0059438027
+max_url_per_auction,0.0058662114
+mean_country_per_auction,0.0040112245
+url_entropy,0.0033450774
+no_of_merchandise_exceeds_threshold,0.0015557464
+min_devices_per_auction,0.0
+total_no_of_participated_auctions,0.0
+total_no_of_bidded_category,0.0
+min_url_per_auction,0.0
+min_country_per_auction,0.0
+auto parts,0.0
+min_ip_per_auction,0.0
+office equipment,0.0
+furniture,0.0
+clothing,0.0
